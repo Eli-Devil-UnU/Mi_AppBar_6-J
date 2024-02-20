@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
   
 # Mi diseño usando App Bar
 
--![image](https://github.com/AlBETO128/Mi_AppBar_6J/assets/143547229/7c3e5900-1487-4de7-84f2-65f46ddc9bb1)
+-![image](https://github.com/Eli-Devil-UnU/Mi_AppBar_6-J/assets/143257351/d24d1607-49a0-44e2-ab5a-b150814a5bba)
 
 #Link de referencia
 
